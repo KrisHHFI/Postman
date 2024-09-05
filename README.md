@@ -16,4 +16,14 @@ I made a browser based application named [React-Full-Stack-Project](https://gith
 
 Use case:
 
-To do...
+GET Method
+
+<img src="React-Full-Stack-Project1.png"/>
+Tested the root URL.
+
+<br>
+
+<img src="React-Full-Stack-Project2.png"/>
+Tested the "/notes" endpoint, which returned all the notes.
+
+
