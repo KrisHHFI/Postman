@@ -18,14 +18,14 @@ Use case:
 
 GET Method
 
-<img src="React-Full-Stack-Project1.png" alt="React-Full-Stack-Project1" style="height: 200px; width: auto;">
+<img src="React-Full-Stack-Project1.png" alt="React-Full-Stack-Project1">
 
 Tested the root URL.
 
 <br>
 <br>
 
-<img src="React-Full-Stack-Project2.png" alt="React-Full-Stack-Project2" style="height: 400px; width: auto;">
+<img src="React-Full-Stack-Project2.png" alt="React-Full-Stack-Project2">
 
 
 Tested the "/notes" endpoint, which returned all the notes.
