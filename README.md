@@ -4,7 +4,8 @@
 
 ## About
 
-In this repository I will document different personal use cases for Postman
+- In this repository I will document different personal use cases for Postman
+- Postman is software which allows us to test API end points. When targeting an end point we can try different HTTP methods like GET, PUT, POST and more. We can't do anything which isnt defined my the API. For example, if an API hasn't defined a function for adding new items, then we can't insert new there items with Postman.
 
 ## Local development environment
 
