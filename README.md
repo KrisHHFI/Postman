@@ -19,15 +19,15 @@ Use case:
 GET Method
 
 <img src="React-Full-Stack-Project1.png" alt="React-Full-Stack-Project1">
-
 Tested the root URL.
 
-<br>
-<br>
+---
 
 <img src="React-Full-Stack-Project2.png" alt="React-Full-Stack-Project2">
+Used the GET method to the "/notes" endpoint, which returned all the notes.
 
+---
 
-Tested the "/notes" endpoint, which returned all the notes.
-
-
+POST Method
+<img src="React-Full-Stack-Project3.png" alt="React-Full-Stack-Project3">
+Used the POST method to the "/notes" endpoint. In the body I defined a new note. This added a new note to the table.
