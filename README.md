@@ -38,3 +38,11 @@ Used the POST method to the "/notes" endpoint. In the body I defined a new note.
 
 <img src="React-Full-Stack-Project4.png" alt="React-Full-Stack-Project4">
 Used the PUT method to the "/notes" endpoint. I defined the note ID in the URL, in this case it was 153. In the body I defined the updated note. This updated the note in the table.
+
+---
+
+### DELETE Method
+
+<img src="React-Full-Stack-Project5.png" alt="React-Full-Stack-Project5">
+Used the DELETE method to the "/notes" endpoint. I defined the note ID in the URL, again I used 153. This deleted the note from the table.
+
