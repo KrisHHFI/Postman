@@ -18,7 +18,6 @@ These notes are saved to a SQLite table.
 <details>
 <summary>GET Method</summary>
 
-  
  <img src="React-Full-Stack-Project1.png" alt="React-Full-Stack-Project1">
  Tested the root URL.
 
@@ -52,3 +51,8 @@ These notes are saved to a SQLite table.
  Used the DELETE method to the "/notes" endpoint. I defined the note ID in the URL, again I used 153. This deleted the note from the table.
 
 </details>
+
+## Online API service (OpenWeatherMap API)
+
+I previously used the OpenWeatherMap API in my [React Weather App](https://github.com/KrisHHFI/React-Weather-App). This app used a GUI to interact with the API. However, Postman can also be used to return the same data. 
+
