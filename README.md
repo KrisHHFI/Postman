@@ -9,7 +9,7 @@
 
 <br>
 
-## Local development environment
+## Local Development Environment
 
 I made a browser based application named [React-Full-Stack-Project](https://github.com/KrisHHFI/React-Full-Stack-Project).
 The project's back end uses Express.js and Node.js. 
@@ -56,7 +56,7 @@ These notes are saved to a SQLite table.
 
 <br>
 
-## Online API service (OpenWeatherMap API)
+## Online API Service (OpenWeatherMap API)
 
 I previously used the OpenWeatherMap API in my [React Weather App](https://github.com/KrisHHFI/React-Weather-App). This app used a GUI to interact with the API. However, Postman can also be used to return the same data. So, I made the same calls I did in my weather app in Postman.
 
